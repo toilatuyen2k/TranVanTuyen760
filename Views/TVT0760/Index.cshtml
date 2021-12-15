@@ -1,0 +1,41 @@
+@model IEnumerable<TranVanTuyen760.Models.TVT0760>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TVTName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TVTGender)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TVTName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TVTGender)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TVTId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TVTId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TVTId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

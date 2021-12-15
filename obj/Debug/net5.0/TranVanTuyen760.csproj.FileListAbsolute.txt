@@ -144,3 +144,8 @@ C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\U
 C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\UniversityTVT760\Details.cshtml.g.cs
 C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\UniversityTVT760\Edit.cshtml.g.cs
 C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\UniversityTVT760\Index.cshtml.g.cs
+C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\TVT0760\Create.cshtml.g.cs
+C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\TVT0760\Delete.cshtml.g.cs
+C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\TVT0760\Details.cshtml.g.cs
+C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\TVT0760\Edit.cshtml.g.cs
+C:\Users\ACER\OneDrive\Máy tính\TranVanTuyen760\obj\Debug\net5.0\Razor\Views\TVT0760\Index.cshtml.g.cs

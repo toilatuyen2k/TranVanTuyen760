@@ -13,4 +13,6 @@ using TranVanTuyen760.Models;
         }
 
         public DbSet<TranVanTuyen760.Models.UniversityTVT760> UniversityTVT760 { get; set; }
+
+        public DbSet<TranVanTuyen760.Models.TVT0760> TVT0760 { get; set; }
     }

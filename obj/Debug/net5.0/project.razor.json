@@ -15619,6 +15619,11 @@
   "RootNamespace": "TranVanTuyen760",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\TVT0760\\Details.cshtml",
+      "TargetPath": "Views\\TVT0760\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\UniversityTVT760\\Create.cshtml",
       "TargetPath": "Views\\UniversityTVT760\\Create.cshtml",
       "FileKind": "mvc"
@@ -15631,6 +15636,16 @@
     {
       "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\TVT0760\\Index.cshtml",
+      "TargetPath": "Views\\TVT0760\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\TVT0760\\Edit.cshtml",
+      "TargetPath": "Views\\TVT0760\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15659,6 +15674,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\TVT0760\\Create.cshtml",
+      "TargetPath": "Views\\TVT0760\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15671,6 +15691,11 @@
     {
       "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\UniversityTVT760\\Delete.cshtml",
       "TargetPath": "Views\\UniversityTVT760\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACER\\OneDrive\\Máy tính\\TranVanTuyen760\\Views\\TVT0760\\Delete.cshtml",
+      "TargetPath": "Views\\TVT0760\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
