@@ -11,6 +11,7 @@ namespace TranVanTuyen760.Controllers
 {
     public class TVT0760Controller : Controller
     {
+        StringProcessTVT760 str = new StringProcessTVT760();
         private readonly MvcMovieContext _context;
 
         public TVT0760Controller(MvcMovieContext context)
@@ -57,6 +58,7 @@ namespace TranVanTuyen760.Controllers
         {
             if (ModelState.IsValid)
             {
+                tVT0760.TVTName = str.LowerToUpper(tVT0760.TVTName);
                 _context.Add(tVT0760);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
